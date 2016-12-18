@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">自动更新</string>
+    <string name="update_download_failed">更新下载失败!</string>
+    <string name="update_download_failed_msg">网络出现问题了</string>
+    <string name="update_download_start">开始下载更新&#8230;</string>
+    <string name="update_download_processing">更新下载进行中&#8230;</string>
+    <string name="update_download_finish">更新下载完成</string>
+    <string name="btn_update">检查更新</string>
+    <string name="alt_dialog_title">发现新版本</string>
+    <string name="alt_dialog_message">更好的用户体验，提升速度和稳定性</string>
+    <string name="alt_dialog_btn_positive">立即更新</string>
+    <string name="action_settings">设置</string>
+    <string name="tb_title">APP</string>
+    <string name="tb_subtitle">这只是个测试</string>
+</resources>
